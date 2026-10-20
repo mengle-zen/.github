@@ -1,7 +1,5 @@
 # Mengle.zen · brand at a glance
 
-**맹글젠**은 만들고 싶은 것을 함께 만들어 보자는 이름입니다. 제주도 말 ‘맹글다’(만들다)와 ‘~젠’(~하려고)을 잇고, 영문 표기에는 차분히 몰입하는 `zen`의 느낌을 더했습니다.
-
 ## Brand palette
 
 | Color | Hex | Role |
